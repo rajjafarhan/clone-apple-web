@@ -13,7 +13,7 @@
 
 
 .bgCover{
-    background-image: url(mainImg.jpg);
+    background-image: url(images/mainImg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
    
@@ -45,7 +45,7 @@
         display: none;
     }
     .bgCover{
-        background-image: url(mainImg2.jpg);
+        background-image: url(images/mainImg2.jpg);
         background-size: cover;
 
        
